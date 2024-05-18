@@ -1,0 +1,7 @@
+C:\Users\VULKAN\source\repos\ders2\ders2\bin\Debug\ders2.exe.config
+C:\Users\VULKAN\source\repos\ders2\ders2\bin\Debug\ders2.exe
+C:\Users\VULKAN\source\repos\ders2\ders2\bin\Debug\ders2.pdb
+C:\Users\VULKAN\source\repos\ders2\ders2\obj\Debug\ders2.csproj.AssemblyReference.cache
+C:\Users\VULKAN\source\repos\ders2\ders2\obj\Debug\ders2.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\source\repos\ders2\ders2\obj\Debug\ders2.exe
+C:\Users\VULKAN\source\repos\ders2\ders2\obj\Debug\ders2.pdb

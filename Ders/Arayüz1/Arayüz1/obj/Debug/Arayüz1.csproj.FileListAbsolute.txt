@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\proje2\Arayüz1\Arayüz1\bin\Debug\Arayüz1.exe.config
+C:\Users\VULKAN\Desktop\proje2\Arayüz1\Arayüz1\bin\Debug\Arayüz1.exe
+C:\Users\VULKAN\Desktop\proje2\Arayüz1\Arayüz1\bin\Debug\Arayüz1.pdb
+C:\Users\VULKAN\Desktop\proje2\Arayüz1\Arayüz1\obj\Debug\Arayüz1.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\proje2\Arayüz1\Arayüz1\obj\Debug\Arayüz1.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\proje2\Arayüz1\Arayüz1\obj\Debug\Arayüz1.exe
+C:\Users\VULKAN\Desktop\proje2\Arayüz1\Arayüz1\obj\Debug\Arayüz1.pdb

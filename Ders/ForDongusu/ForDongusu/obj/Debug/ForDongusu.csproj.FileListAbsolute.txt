@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\udemy\ForDongusu\ForDongusu\bin\Debug\ForDongusu.exe.config
+C:\Users\VULKAN\Desktop\udemy\ForDongusu\ForDongusu\bin\Debug\ForDongusu.exe
+C:\Users\VULKAN\Desktop\udemy\ForDongusu\ForDongusu\bin\Debug\ForDongusu.pdb
+C:\Users\VULKAN\Desktop\udemy\ForDongusu\ForDongusu\obj\Debug\ForDongusu.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\udemy\ForDongusu\ForDongusu\obj\Debug\ForDongusu.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\ForDongusu\ForDongusu\obj\Debug\ForDongusu.exe
+C:\Users\VULKAN\Desktop\udemy\ForDongusu\ForDongusu\obj\Debug\ForDongusu.pdb

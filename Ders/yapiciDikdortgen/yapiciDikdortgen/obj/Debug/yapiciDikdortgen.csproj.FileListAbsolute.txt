@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\proje2\yapiciDikdortgen\yapiciDikdortgen\bin\Debug\yapiciDikdortgen.exe.config
+C:\Users\VULKAN\Desktop\proje2\yapiciDikdortgen\yapiciDikdortgen\bin\Debug\yapiciDikdortgen.exe
+C:\Users\VULKAN\Desktop\proje2\yapiciDikdortgen\yapiciDikdortgen\bin\Debug\yapiciDikdortgen.pdb
+C:\Users\VULKAN\Desktop\proje2\yapiciDikdortgen\yapiciDikdortgen\obj\Debug\yapiciDikdortgen.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\proje2\yapiciDikdortgen\yapiciDikdortgen\obj\Debug\yapiciDikdortgen.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\proje2\yapiciDikdortgen\yapiciDikdortgen\obj\Debug\yapiciDikdortgen.exe
+C:\Users\VULKAN\Desktop\proje2\yapiciDikdortgen\yapiciDikdortgen\obj\Debug\yapiciDikdortgen.pdb

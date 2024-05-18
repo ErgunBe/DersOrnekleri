@@ -1,0 +1,7 @@
+C:\Users\VULKAN\source\repos\Daire_Hesaplama\Daire_Hesaplama\bin\Debug\Daire_Hesaplama.exe.config
+C:\Users\VULKAN\source\repos\Daire_Hesaplama\Daire_Hesaplama\bin\Debug\Daire_Hesaplama.exe
+C:\Users\VULKAN\source\repos\Daire_Hesaplama\Daire_Hesaplama\bin\Debug\Daire_Hesaplama.pdb
+C:\Users\VULKAN\source\repos\Daire_Hesaplama\Daire_Hesaplama\obj\Debug\Daire_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\VULKAN\source\repos\Daire_Hesaplama\Daire_Hesaplama\obj\Debug\Daire_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\source\repos\Daire_Hesaplama\Daire_Hesaplama\obj\Debug\Daire_Hesaplama.exe
+C:\Users\VULKAN\source\repos\Daire_Hesaplama\Daire_Hesaplama\obj\Debug\Daire_Hesaplama.pdb

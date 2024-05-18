@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\udemy\2donemor2\2donemor2\bin\Debug\2donemor2.exe.config
+C:\Users\VULKAN\Desktop\udemy\2donemor2\2donemor2\bin\Debug\2donemor2.exe
+C:\Users\VULKAN\Desktop\udemy\2donemor2\2donemor2\bin\Debug\2donemor2.pdb
+C:\Users\VULKAN\Desktop\udemy\2donemor2\2donemor2\obj\Debug\2donemor2.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\udemy\2donemor2\2donemor2\obj\Debug\2donemor2.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\2donemor2\2donemor2\obj\Debug\2donemor2.exe
+C:\Users\VULKAN\Desktop\udemy\2donemor2\2donemor2\obj\Debug\2donemor2.pdb

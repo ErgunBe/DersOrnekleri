@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\udemy\Dersc#2donem\Dersc#2donem\bin\Debug\Dersc#2donem.exe.config
+C:\Users\VULKAN\Desktop\udemy\Dersc#2donem\Dersc#2donem\bin\Debug\Dersc#2donem.exe
+C:\Users\VULKAN\Desktop\udemy\Dersc#2donem\Dersc#2donem\bin\Debug\Dersc#2donem.pdb
+C:\Users\VULKAN\Desktop\udemy\Dersc#2donem\Dersc#2donem\obj\Debug\Dersc#2donem.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\udemy\Dersc#2donem\Dersc#2donem\obj\Debug\Dersc#2donem.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\Dersc#2donem\Dersc#2donem\obj\Debug\Dersc#2donem.exe
+C:\Users\VULKAN\Desktop\udemy\Dersc#2donem\Dersc#2donem\obj\Debug\Dersc#2donem.pdb

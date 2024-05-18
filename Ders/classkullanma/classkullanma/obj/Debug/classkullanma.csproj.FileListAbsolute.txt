@@ -1,0 +1,7 @@
+C:\Users\VULKAN\source\repos\classkullanma\classkullanma\bin\Debug\classkullanma.exe.config
+C:\Users\VULKAN\source\repos\classkullanma\classkullanma\bin\Debug\classkullanma.exe
+C:\Users\VULKAN\source\repos\classkullanma\classkullanma\bin\Debug\classkullanma.pdb
+C:\Users\VULKAN\source\repos\classkullanma\classkullanma\obj\Debug\classkullanma.csproj.AssemblyReference.cache
+C:\Users\VULKAN\source\repos\classkullanma\classkullanma\obj\Debug\classkullanma.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\source\repos\classkullanma\classkullanma\obj\Debug\classkullanma.exe
+C:\Users\VULKAN\source\repos\classkullanma\classkullanma\obj\Debug\classkullanma.pdb

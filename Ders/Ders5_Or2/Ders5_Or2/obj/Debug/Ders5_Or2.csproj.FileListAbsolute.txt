@@ -1,0 +1,7 @@
+C:\Users\VULKAN\source\repos\Ders5_Or2\Ders5_Or2\bin\Debug\Ders5_Or2.exe.config
+C:\Users\VULKAN\source\repos\Ders5_Or2\Ders5_Or2\bin\Debug\Ders5_Or2.exe
+C:\Users\VULKAN\source\repos\Ders5_Or2\Ders5_Or2\bin\Debug\Ders5_Or2.pdb
+C:\Users\VULKAN\source\repos\Ders5_Or2\Ders5_Or2\obj\Debug\Ders5_Or2.csproj.AssemblyReference.cache
+C:\Users\VULKAN\source\repos\Ders5_Or2\Ders5_Or2\obj\Debug\Ders5_Or2.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\source\repos\Ders5_Or2\Ders5_Or2\obj\Debug\Ders5_Or2.exe
+C:\Users\VULKAN\source\repos\Ders5_Or2\Ders5_Or2\obj\Debug\Ders5_Or2.pdb

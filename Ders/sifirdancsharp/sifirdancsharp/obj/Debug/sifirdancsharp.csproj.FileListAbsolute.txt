@@ -1,0 +1,7 @@
+C:\Users\VULKAN\source\repos\sifirdancsharp\sifirdancsharp\bin\Debug\sifirdancsharp.exe.config
+C:\Users\VULKAN\source\repos\sifirdancsharp\sifirdancsharp\bin\Debug\sifirdancsharp.exe
+C:\Users\VULKAN\source\repos\sifirdancsharp\sifirdancsharp\bin\Debug\sifirdancsharp.pdb
+C:\Users\VULKAN\source\repos\sifirdancsharp\sifirdancsharp\obj\Debug\sifirdancsharp.csproj.AssemblyReference.cache
+C:\Users\VULKAN\source\repos\sifirdancsharp\sifirdancsharp\obj\Debug\sifirdancsharp.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\source\repos\sifirdancsharp\sifirdancsharp\obj\Debug\sifirdancsharp.exe
+C:\Users\VULKAN\source\repos\sifirdancsharp\sifirdancsharp\obj\Debug\sifirdancsharp.pdb

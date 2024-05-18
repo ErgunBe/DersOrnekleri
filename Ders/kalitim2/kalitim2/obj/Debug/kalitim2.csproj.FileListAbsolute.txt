@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\proje2\kalitim2\kalitim2\bin\Debug\kalitim2.exe.config
+C:\Users\VULKAN\Desktop\proje2\kalitim2\kalitim2\bin\Debug\kalitim2.exe
+C:\Users\VULKAN\Desktop\proje2\kalitim2\kalitim2\bin\Debug\kalitim2.pdb
+C:\Users\VULKAN\Desktop\proje2\kalitim2\kalitim2\obj\Debug\kalitim2.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\proje2\kalitim2\kalitim2\obj\Debug\kalitim2.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\proje2\kalitim2\kalitim2\obj\Debug\kalitim2.exe
+C:\Users\VULKAN\Desktop\proje2\kalitim2\kalitim2\obj\Debug\kalitim2.pdb
